@@ -8,7 +8,7 @@ the other method is by checking the URL of the username, which can be slightly i
 sent to the account that has been logged in to update their details (changing username). 
 
 ## Preview
-![img1](https://imgur.com/gallery/GB6qveP)
+![img1](https://media.discordapp.net/attachments/804048851514294323/958167386031259698/iggg.png)
 
 ## Usage
 ```
